@@ -394,3 +394,380 @@ The next section introduces the **Evidence-Based B2B SaaS YouTube Operating Syst
 - Measurement
 - Continuous Improvement
 
+# Operating Principles
+
+The following principles guide every recommendation in this playbook. Rather than being individual tactics, they represent the decision-making philosophy that underpins the operating system.
+
+Each principle is supported by one or more practitioners from the research repository.
+
+---
+
+## Principle 1 – Customer Problems Come Before Content Ideas
+
+Every video should begin with a real customer problem rather than an internal content idea.
+
+The objective is not to publish more videos. The objective is to answer important questions that help potential buyers make better decisions.
+
+**Evidence**
+
+Amanda Natividad consistently advocates customer-led content development through interviews, customer conversations and qualitative research.
+
+Kevin Indig recommends using customer conversations and first-party insights rather than relying exclusively on keyword tools.
+
+**Why this matters**
+
+Companies often create content based on what they want to communicate instead of what customers genuinely need to understand. This usually results in lower engagement and weaker business outcomes.
+
+**Confidence**
+
+★★★★★
+
+---
+
+## Principle 2 – Optimise for Trust Before Reach
+
+Large view counts do not necessarily create business value.
+
+A video watched by 500 qualified buyers is often more valuable than one watched by 50,000 people outside the target audience.
+
+**Evidence**
+
+Chris Walker argues that marketing success should be measured using pipeline and revenue rather than vanity metrics.
+
+Samu Kovacs similarly recommends focusing on business impact instead of subscriber growth alone.
+
+**Confidence**
+
+★★★★★
+
+---
+
+## Principle 3 – Education Outperforms Promotion
+
+Educational videos continue to generate value long after publication because they solve recurring customer problems.
+
+Promotional videos usually lose relevance much faster.
+
+**Evidence**
+
+Dave Gerhardt frequently discusses building audience trust through useful educational content rather than product-centric messaging.
+
+Ross Simmonds advocates creating valuable content assets that can be distributed repeatedly across multiple channels.
+
+**Confidence**
+
+★★★★☆
+
+---
+
+## Principle 4 – Distribution Is Part of Content Creation
+
+Publishing a video is not the end of the workflow.
+
+Distribution should be planned before production begins.
+
+Each video should generate multiple reusable assets including:
+
+- LinkedIn posts
+- Newsletter content
+- Short-form clips
+- Sales enablement material
+- Customer success resources
+
+**Evidence**
+
+Ross Simmonds repeatedly emphasises content distribution as a multiplier rather than an afterthought.
+
+**Confidence**
+
+★★★★★
+
+---
+
+## Principle 5 – Build Systems Instead of Campaigns
+
+Successful YouTube programmes are built around repeatable systems rather than isolated marketing campaigns.
+
+The objective is to create an operating rhythm that continues regardless of individual team members.
+
+**Evidence**
+
+Several practitioners emphasise consistency, repeatability and documented workflows over one-off creative efforts.
+
+**Confidence**
+
+★★★★☆
+
+---
+
+## Principle 6 – Every Video Should Improve the Next One
+
+Publishing should generate learning.
+
+Every video should produce new customer questions, new insights and measurable feedback that improve future content decisions.
+
+This creates a continuous improvement loop instead of disconnected marketing activities.
+
+**Original Recommendation**
+
+Although multiple practitioners discuss iteration, the concept of treating YouTube as a structured organisational learning system is my own synthesis developed during this research.
+
+**Confidence**
+
+★★★★☆  
+
+---
+
+# The Evidence-Based Operating System
+
+The operating system presented in this playbook transforms research into a repeatable decision-making framework.
+
+Rather than viewing YouTube as a standalone marketing activity, it treats content creation as an organisational capability built on customer understanding, evidence-based decision making and continuous learning.
+
+The framework is designed to answer one question at every stage:
+
+> **"What is the next best decision, based on evidence?"**
+
+Instead of relying on intuition or isolated creative ideas, every stage of the operating system is supported by research collected during this project.
+
+The workflow consists of eight connected stages.
+
+```text
+
+Business Goal
+
+        │
+
+        ▼
+
+Customer Research
+
+        │
+
+        ▼
+
+Topic Prioritisation
+
+        │
+
+        ▼
+
+Video Planning
+
+        │
+
+        ▼
+
+Production
+
+        │
+
+        ▼
+
+Distribution
+
+        │
+
+        ▼
+
+Measurement
+
+        │
+
+        ▼
+
+Continuous Learning
+
+```
+
+Each stage produces outputs that become inputs for the next stage, creating a repeatable system rather than disconnected marketing activities.
+
+Unlike traditional content workflows, this operating system deliberately closes the learning loop.
+
+Every published video generates new customer questions, audience insights and performance data that improve future decisions.
+
+This transforms YouTube from a publishing platform into an organisational learning system.
+
+> **Original Contribution**
+
+
+
+> The concept of treating YouTube as an organisational learning system emerged during this research after comparing recurring patterns across multiple practitioners. Although continuous improvement appears throughout the research, the complete operating model presented here is my own synthesis.
+
+---
+
+# Operating Principles
+
+Before defining individual processes, six operating principles guide every decision within this playbook.
+
+These principles were derived from recurring themes observed across the research rather than from any single practitioner.  
+  
+---
+
+# Standard Operating Procedure (SOP)
+
+This section converts the research findings into a repeatable operating process that a B2B SaaS marketing team can follow.
+
+Each stage includes:
+
+- Objective
+
+- Inputs
+
+- Process
+
+- Outputs
+
+- Success Criteria
+
+- Supporting Evidence
+
+- Checklist
+
+The objective is to ensure YouTube becomes a repeatable business process rather than an isolated marketing activity.
+
+---
+
+# SOP Stage 1 — Business Goal Definition
+
+## Objective
+
+Define exactly why the organisation is investing in YouTube before creating any content.
+
+A YouTube channel cannot optimise simultaneously for awareness, demand generation, customer education, recruiting and thought leadership. A clear business objective ensures every later decision supports the same outcome.
+
+---
+
+## Inputs
+
+- Company business objectives
+
+- Marketing strategy
+
+- Sales objectives
+
+- Product priorities
+
+- Customer journey
+
+---
+
+## Process
+
+### Step 1
+
+Identify the primary business objective.
+
+Possible objectives include:
+
+| Objective | Example KPI |
+
+|------------|-------------|
+
+| Brand Awareness | Returning viewers |
+
+| Demand Generation | Qualified demo requests |
+
+| Customer Education | Reduced support tickets |
+
+| Sales Enablement | Sales team adoption |
+
+| Thought Leadership | Industry mentions |
+
+---
+
+### Step 2
+
+Define the primary audience.
+
+Document:
+
+- Industry
+
+- Company size
+
+- Job titles
+
+- Buying stage
+
+- Primary pain points
+
+---
+
+### Step 3
+
+Define one primary success metric.
+
+Examples include:
+
+- Pipeline influenced
+
+- Qualified leads generated
+
+- Product sign-ups
+
+- Customer retention
+
+- Returning viewers
+
+Avoid optimising for vanity metrics such as total views or subscriber count in isolation.
+
+---
+
+## Outputs
+
+The outcome of this stage should be a one-page **Channel Charter** containing:
+
+- Business objective
+
+- Target audience
+
+- Success metric
+
+- Review cadence
+
+- Content owner
+
+---
+
+## Supporting Evidence
+
+**Chris Walker**
+
+Marketing performance should be measured using business outcomes rather than vanity metrics.
+
+**Source**
+
+Research/youtube-transcripts/[chris-walker.md](http://chris-walker.md)
+
+---
+
+**Samu Kovacs**
+
+B2B YouTube should support pipeline creation rather than simply increasing view counts.
+
+**Source**
+
+Research/youtube-transcripts/[samu-kovacs.md](http://samu-kovacs.md)
+
+---
+
+## Confidence
+
+★★★★★
+
+Supported independently by multiple practitioners.
+
+---
+
+## Checklist
+
+- [ ] Business objective defined
+
+- [ ] Target audience documented
+
+- [ ] Success metric selected
+
+- [ ] Content owner assigned
+
+- [ ] Review date scheduled
