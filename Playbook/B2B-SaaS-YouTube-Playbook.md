@@ -21,6 +21,8 @@ Whenever experts disagreed, both viewpoints were analysed before making a final 
 
 ---
 
+
+
 # Executive Summary
 
 Most B2B SaaS companies recognise the importance of YouTube but struggle to create content consistently. Content production often depends on individual creativity rather than a repeatable process, resulting in inconsistent publishing, weak customer alignment and limited business impact.
@@ -43,9 +45,45 @@ Across ten practitioners, several recurring themes emerged:
 - Success should be measured using business outcomes rather than vanity metrics.
 - Every published video should contribute to organisational learning.
 
-Based on these findings, this playbook presents an evidence-based operating system that combines research, planning, production, distribution and continuous improvement into one repeatable framework.
+Based on these findings, this playbook presents an evidence-based operating system that combines research, planning, production, distribution and continuous improvement into one repeatable framework.  
+  
+## Table of Contents
+
+1. Executive Summary
+
+2. Research Methodology
+
+3. Operating Principles
+
+4. SOP Stage 1
+
+5. SOP Stage 2
+
+6. SOP Stage 3
+
+7. SOP Stage 4
+
+8. SOP Stage 5
+
+9. SOP Stage 6
+
+10. SOP Stage 7
+
+11. SOP Stage 8
+
+12. Expert Disagreements
+
+13. Rejected Recommendations
+
+14. Original Frameworks
+
+15. Weaknesses
+
+16. References
 
 ---
+
+
 
 # Objectives
 
@@ -69,6 +107,8 @@ Every customer interaction and published video should improve future content dec
 
 ---
 
+
+
 # Intended Audience
 
 This playbook is intended for:
@@ -82,6 +122,8 @@ This playbook is intended for:
 - Marketing leaders responsible for YouTube strategy
 
 ---
+
+
 
 # Who Should Not Use This Playbook
 
@@ -99,6 +141,8 @@ This playbook optimises for customer education, trust and commercial impact.
 
 ---
 
+
+
 # Expected Outcomes
 
 When consistently followed, this operating system should help an organisation:
@@ -112,6 +156,8 @@ When consistently followed, this operating system should help an organisation:
 
 ---
 
+
+
 # Research Question
 
 The research for this project was guided by one primary question:
@@ -121,6 +167,8 @@ The research for this project was guided by one primary question:
 Rather than focusing on platform optimisation or algorithm tactics, this research focused on designing an operational system that connects customer insights with business outcomes.
 
 ---
+
+
 
 # Research Scope
 
@@ -139,6 +187,8 @@ The selected practitioners were chosen because they actively build, test and sha
 
 ---
 
+
+
 # Research Sources
 
 The research repository includes:
@@ -153,6 +203,8 @@ The research repository includes:
 Rather than relying solely on AI-generated summaries, recommendations were extracted from the original research material wherever possible.
 
 ---
+
+
 
 # Research Methodology
 
@@ -210,6 +262,8 @@ This process ensured recommendations were evaluated critically rather than copie
 
 ---
 
+
+
 # Evidence Classification
 
 To improve transparency, every recommendation is classified according to its evidence source.
@@ -232,6 +286,8 @@ To improve transparency, every recommendation is classified according to its evi
 
 ---
 
+
+
 # Recommendation Acceptance Criteria
 
 A recommendation was included only if it satisfied one or more of the following criteria:
@@ -245,6 +301,8 @@ A recommendation was included only if it satisfied one or more of the following 
 Recommendations that relied on exceptional founder influence, unusually large marketing teams or weak supporting evidence were either modified or rejected.
 
 ---
+
+
 
 # Confidence Rating
 
@@ -267,6 +325,8 @@ Each recommendation is assigned a confidence rating.
 The confidence score represents confidence in the evidence, not a guarantee of success.
 
 ---
+
+
 
 # Handling Conflicting Advice
 
@@ -320,6 +380,8 @@ This approach ensures recommendations remain evidence-based while acknowledging 
 
 ---
 
+
+
 # Original Contributions
 
 This playbook intentionally distinguishes between two types of content.
@@ -336,6 +398,8 @@ Every original recommendation is explicitly labelled to avoid confusion with pra
 
 ---
 
+
+
 # Research Limitations
 
 Several limitations should be acknowledged.
@@ -348,6 +412,8 @@ Several limitations should be acknowledged.
 This playbook should therefore be viewed as a living operating system that benefits from continuous experimentation and refinement.
 
 ---
+
+
 
 # What Makes This Playbook Different?
 
@@ -371,6 +437,8 @@ Rather than optimising YouTube itself, this operating system optimises decision-
 
 ---
 
+
+
 # What's Next
 
 The next section introduces the **Evidence-Based B2B SaaS YouTube Operating System**, which transforms research into a repeatable workflow covering:
@@ -384,6 +452,8 @@ The next section introduces the **Evidence-Based B2B SaaS YouTube Operating Syst
 - Measurement
 - Continuous Improvement
 
+
+
 # Operating Principles
 
 The following principles guide every recommendation in this playbook. Rather than being individual tactics, they represent the decision-making philosophy that underpins the operating system.
@@ -391,6 +461,8 @@ The following principles guide every recommendation in this playbook. Rather tha
 Each principle is supported by one or more practitioners from the research repository.
 
 ---
+
+
 
 ## Principle 1 – Customer Problems Come Before Content Ideas
 
@@ -414,6 +486,8 @@ Companies often create content based on what they want to communicate instead of
 
 ---
 
+
+
 ## Principle 2 – Optimise for Trust Before Reach
 
 Large view counts do not necessarily create business value.
@@ -432,6 +506,8 @@ Samu Kovacs similarly recommends focusing on business impact instead of subscrib
 
 ---
 
+
+
 ## Principle 3 – Education Outperforms Promotion
 
 Educational videos continue to generate value long after publication because they solve recurring customer problems.
@@ -449,6 +525,8 @@ Ross Simmonds advocates creating valuable content assets that can be distributed
 ★★★★☆
 
 ---
+
+
 
 ## Principle 4 – Distribution Is Part of Content Creation
 
@@ -474,6 +552,8 @@ Ross Simmonds repeatedly emphasises content distribution as a multiplier rather 
 
 ---
 
+
+
 ## Principle 5 – Build Systems Instead of Campaigns
 
 Successful YouTube programmes are built around repeatable systems rather than isolated marketing campaigns.
@@ -489,6 +569,8 @@ Several practitioners emphasise consistency, repeatability and documented workfl
 ★★★★☆
 
 ---
+
+
 
 ## Principle 6 – Every Video Should Improve the Next One
 
@@ -507,6 +589,8 @@ Although multiple practitioners discuss iteration, the concept of treating YouTu
 ★★★★☆  
 
 ---
+
+
 
 # The Evidence-Based Operating System
 
@@ -584,6 +668,8 @@ This transforms YouTube from a publishing platform into an organisational learni
 
 ---
 
+
+
 # Operating Principles
 
 Before defining individual processes, six operating principles guide every decision within this playbook.
@@ -591,6 +677,8 @@ Before defining individual processes, six operating principles guide every decis
 These principles were derived from recurring themes observed across the research rather than from any single practitioner.  
 
 ---
+
+
 
 # Standard Operating Procedure (SOP)
 
@@ -610,7 +698,11 @@ The objective is to ensure YouTube becomes a repeatable business process rather 
 
 ---
 
+
+
 # SOP Stage 1 — Business Goal Definition
+
+
 
 ## Objective
 
@@ -619,6 +711,8 @@ Define exactly why the organisation is investing in YouTube before creating any 
 A YouTube channel cannot optimise simultaneously for awareness, demand generation, customer education, recruiting and thought leadership. A clear business objective ensures every later decision supports the same outcome.
 
 ---
+
+
 
 ## Inputs
 
@@ -630,7 +724,11 @@ A YouTube channel cannot optimise simultaneously for awareness, demand generatio
 
 ---
 
+
+
 ## Process
+
+
 
 ### Step 1
 
@@ -654,6 +752,8 @@ Possible objectives include:
 
 ---
 
+
+
 ### Step 2
 
 Define the primary audience.
@@ -667,6 +767,8 @@ Document:
 - Primary pain points
 
 ---
+
+
 
 ### Step 3
 
@@ -684,6 +786,8 @@ Avoid optimising for vanity metrics such as total views or subscriber count in i
 
 ---
 
+
+
 ## Outputs
 
 The outcome of this stage should be a one-page **Channel Charter** containing:
@@ -695,6 +799,8 @@ The outcome of this stage should be a one-page **Channel Charter** containing:
 - Content owner
 
 ---
+
+
 
 ## Supporting Evidence
 
@@ -718,6 +824,8 @@ Samu Kovacs – *A $7,000,000/yr B2B YouTube Strategy* [https://www.youtube.com/
 
 ---
 
+
+
 ## Confidence
 
 ★★★★★
@@ -725,6 +833,8 @@ Samu Kovacs – *A $7,000,000/yr B2B YouTube Strategy* [https://www.youtube.com/
 Supported independently by multiple practitioners.
 
 ---
+
+
 
 ## Checklist
 
@@ -740,7 +850,11 @@ Supported independently by multiple practitioners.
 
 ---
 
+
+
 # SOP Stage 2 — Customer Research
+
+
 
 ## Objective
 
@@ -749,6 +863,8 @@ Develop a deep understanding of customer problems before selecting video topics.
 The goal is to identify the questions, challenges and decisions that potential buyers already have. Successful B2B SaaS YouTube content answers these questions rather than promoting product features.
 
 ---
+
+
 
 ## Inputs
 
@@ -763,7 +879,11 @@ The goal is to identify the questions, challenges and decisions that potential b
 
 ---
 
+
+
 ## Process
+
+
 
 ### Step 1 – Collect Customer Questions
 
@@ -780,6 +900,8 @@ Recommended sources include:
 - YouTube comments
 
 ---
+
+
 
 ### Step 2 – Group Questions into Themes
 
@@ -801,6 +923,8 @@ These themes become the foundation of future content planning.
 
 ---
 
+
+
 ### Step 3 – Prioritise Problems
 
 Evaluate each topic using three criteria:
@@ -819,6 +943,8 @@ Prioritise topics that score highly across all three.
 
 ---
 
+
+
 ### Step 4 – Validate Findings
 
 Before creating content, confirm that the identified problems represent genuine customer needs.
@@ -831,6 +957,8 @@ Validation methods include:
 - Gathering feedback from Product Marketing
 
 ---
+
+
 
 ## Outputs
 
@@ -846,7 +974,11 @@ This repository should be updated continuously as new customer insights emerge.
 
 ---
 
+
+
 ## Supporting Evidence
+
+
 
 ### Amanda Natividad
 
@@ -858,6 +990,8 @@ LinkedIn – *How Would You Start a Marketing Strategy?* [https://www.linkedin.c
 
 ---
 
+
+
 ### Kevin Indig
 
 First-party customer insights provide a stronger foundation than relying exclusively on SEO tools.
@@ -867,6 +1001,8 @@ First-party customer insights provide a stronger foundation than relying exclusi
 YouTube – *Google Will Kill Your Traffic — Here's How You Adapt* [https://www.youtube.com/watch?v=jQXvbeYF5go](https://www.youtube.com/watch?v=jQXvbeYF5go)
 
 ---
+
+
 
 ### Chris Walker
 
@@ -878,6 +1014,8 @@ YouTube – *2X Your Revenue With This Marketing Framework* [https://www.youtube
 
 ---
 
+
+
 ## Confidence
 
 ★★★★★
@@ -885,6 +1023,8 @@ YouTube – *2X Your Revenue With This Marketing Framework* [https://www.youtube
 This recommendation is strongly supported across multiple practitioners.
 
 ---
+
+
 
 ## Checklist
 
@@ -902,7 +1042,11 @@ This recommendation is strongly supported across multiple practitioners.
 
 ---
 
+
+
 # SOP Stage 3 — Topic Prioritisation
+
+
 
 ## Objective
 
@@ -911,6 +1055,8 @@ Select video topics that maximise business impact by balancing customer demand, 
 Rather than choosing topics based on intuition or trending keywords alone, this stage applies a structured prioritisation framework.
 
 ---
+
+
 
 ## Inputs
 
@@ -923,7 +1069,11 @@ Rather than choosing topics based on intuition or trending keywords alone, this 
 
 ---
 
+
+
 ## Process
+
+
 
 ### Step 1 – Create a Topic Backlog
 
@@ -940,6 +1090,8 @@ Possible sources include:
 - Competitor content gaps
 
 ---
+
+
 
 ### Step 2 – Score Every Topic
 
@@ -963,6 +1115,8 @@ Topics with consistently high scores should be prioritised.
 
 ---
 
+
+
 ### Step 3 – Balance Content Types
 
 Maintain a healthy mix of:
@@ -976,6 +1130,8 @@ Maintain a healthy mix of:
 This prevents over-reliance on any single content format.
 
 ---
+
+
 
 ### Step 4 – Build a Quarterly Roadmap
 
@@ -991,6 +1147,8 @@ Each topic should include:
 
 ---
 
+
+
 ## Outputs
 
 Produce a prioritised **Content Roadmap** containing:
@@ -1003,7 +1161,11 @@ Produce a prioritised **Content Roadmap** containing:
 
 ---
 
+
+
 ## Supporting Evidence
+
+
 
 ### Ross Simmonds
 
@@ -1015,6 +1177,8 @@ YouTube – *The $1 Trillion Shift Nobody's Talking About in Marketing* [https:/
 
 ---
 
+
+
 ### Dave Gerhardt
 
 Content should align with long-term business goals rather than chasing short-term trends.
@@ -1024,6 +1188,8 @@ Content should align with long-term business goals rather than chasing short-ter
 YouTube – *The Best B2B Influencer Marketing Strategy* [https://www.youtube.com/watch?v=-B1xZs9rdYo](https://www.youtube.com/watch?v=-B1xZs9rdYo)
 
 ---
+
+
 
 ### Amanda Natividad
 
@@ -1038,7 +1204,11 @@ LinkedIn – How Would You Start a Marketing Strategy?
 
 ---
 
+
+
 ## Original Contribution
+
+
 
 ### The ICE-V Framework
 
@@ -1070,6 +1240,8 @@ Rather than replacing expert recommendations, ICE-V combines recurring themes fr
 
 ---
 
+
+
 ## Confidence
 
 ★★★★★
@@ -1077,6 +1249,8 @@ Rather than replacing expert recommendations, ICE-V combines recurring themes fr
 Strongly supported across multiple research sources, with the ICE-V framework representing my own synthesis.
 
 ---
+
+
 
 ## Checklist
 
@@ -1092,7 +1266,11 @@ Strongly supported across multiple research sources, with the ICE-V framework re
 
 ---
 
+
+
 # SOP Stage 4 — Video Planning
+
+
 
 ## Objective
 
@@ -1101,6 +1279,8 @@ Convert prioritised topics into high-quality video briefs that align with busine
 A structured planning process reduces rework, improves consistency and ensures every video has a clear purpose before production begins.
 
 ---
+
+
 
 ## Inputs
 
@@ -1112,7 +1292,11 @@ A structured planning process reduces rework, improves consistency and ensures e
 
 ---
 
+
+
 ## Process
+
+
 
 ### Step 1 – Define the Core Question
 
@@ -1129,6 +1313,8 @@ Avoid trying to answer multiple unrelated questions in a single video.
 
 ---
 
+
+
 ### Step 2 – Define Success
 
 Before scripting, answer:
@@ -1144,6 +1330,8 @@ Examples:
 - Download a guide
 
 ---
+
+
 
 ### Step 3 – Create the Video Brief
 
@@ -1167,6 +1355,8 @@ Each brief should include:
 
 ---
 
+
+
 ### Step 4 – Validate Before Production
 
 Before recording, confirm:
@@ -1180,13 +1370,19 @@ Only then move into production.
 
 ---
 
+
+
 ## Outputs
 
 A complete Video Brief ready for scripting and recording.
 
 ---
 
+
+
 ## Supporting Evidence
+
+
 
 ### Amanda Natividad
 
@@ -1198,6 +1394,8 @@ LinkedIn – *How Would You Start a Marketing Strategy?* [https://www.linkedin.c
 
 ---
 
+
+
 ### Dave Gerhardt
 
 Every piece of content should have a clear strategic purpose.
@@ -1207,6 +1405,8 @@ Every piece of content should have a clear strategic purpose.
 YouTube – *The Best B2B Influencer Marketing Strategy* [https://www.youtube.com/watch?v=-B1xZs9rdYo](https://www.youtube.com/watch?v=-B1xZs9rdYo)
 
 ---
+
+
 
 ### Chris Walker
 
@@ -1218,7 +1418,11 @@ YouTube – *2X Your Revenue With This Marketing Framework* [https://www.youtube
 
 ---
 
+
+
 ## Original Contribution
+
+
 
 ### The One Question Rule
 
@@ -1230,11 +1434,15 @@ This rule was developed during this research to improve clarity and audience ret
 
 ---
 
+
+
 ## Confidence
 
 ★★★★★
 
 ---
+
+
 
 ## Checklist
 
@@ -1250,7 +1458,11 @@ This rule was developed during this research to improve clarity and audience ret
 
 ---
 
+
+
 # Original Framework 1 — The Evidence Pyramid™
+
+
 
 ## Why I Created This
 
@@ -1261,6 +1473,8 @@ To solve this, I developed the **Evidence Pyramid™**.
 This framework is my own synthesis created during this assignment.
 
 ---
+
+
 
 ## The Evidence Pyramid™
 
@@ -1292,6 +1506,8 @@ This framework is my own synthesis created during this assignment.
 
 ---
 
+
+
 ## How It Works
 
 Every proposed video idea should be evaluated against the pyramid.
@@ -1304,6 +1520,8 @@ Highest confidence.
 
 ---
 
+
+
 ### Level 2 — Repeated Customer Problems
 
 Questions repeatedly observed across multiple customers.
@@ -1311,6 +1529,8 @@ Questions repeatedly observed across multiple customers.
 High confidence.
 
 ---
+
+
 
 ### Level 3 — Customer Story
 
@@ -1320,6 +1540,8 @@ Useful but should be validated before becoming a recurring content topic.
 
 ---
 
+
+
 ### Level 4 — Personal Experience
 
 Experience from founders or subject matter experts.
@@ -1328,6 +1550,8 @@ Valuable but susceptible to personal bias.
 
 ---
 
+
+
 ### Level 5 — Opinion
 
 Ideas supported only by assumptions.
@@ -1335,6 +1559,8 @@ Ideas supported only by assumptions.
 Lowest confidence.
 
 ---
+
+
 
 ## Decision Rule
 
@@ -1346,6 +1572,8 @@ As a general principle:
 
 ---
 
+
+
 ## Why This Matters
 
 Many companies create content because someone internally believes it is important.
@@ -1356,7 +1584,11 @@ Although inspired by recurring themes across multiple practitioners, the Evidenc
 
 ---
 
+
+
 # SOP Stage 5 — Video Production
+
+
 
 ## Objective
 
@@ -1365,6 +1597,8 @@ Convert an approved video brief into a clear, credible and useful video without 
 For a B2B SaaS audience, clarity and subject-matter value are usually more important than cinematic production. The production process should therefore prioritise strong messaging, credible examples and an efficient workflow.
 
 ---
+
+
 
 ## Inputs
 
@@ -1376,6 +1610,8 @@ For a B2B SaaS audience, clarity and subject-matter value are usually more impor
 - Brand and legal guidelines
 
 ---
+
+
 
 ## Decision
 
@@ -1399,7 +1635,11 @@ The format should be selected based on the viewer’s need rather than the team�
 
 ---
 
+
+
 ## Process
+
+
 
 ### Step 1 — Prepare the Speaker
 
@@ -1417,6 +1657,8 @@ The preparation should cover:
 The speaker should understand the argument rather than memorise a complete script.
 
 ---
+
+
 
 ### Step 2 — Simplify the Message
 
@@ -1455,6 +1697,8 @@ YouTube interview
 
 ---
 
+
+
 ### Step 3 — Structure the Video
 
 Use the following structure as a starting point.
@@ -1465,12 +1709,16 @@ Use the following structure as a starting point.
 - Identify who the video is for.
 - Explain what the viewer will understand by the end.
 
+
+
 #### Main Explanation
 
 - Present three to five logical sections.
 - Explain one idea at a time.
 - Use a practical example.
 - Address relevant trade-offs or risks.
+
+
 
 #### Closing
 
@@ -1479,6 +1727,8 @@ Use the following structure as a starting point.
 - Use a call to action aligned with the viewer’s buying stage.
 
 ---
+
+
 
 ### Step 4 — Record Efficiently
 
@@ -1502,6 +1752,8 @@ Begin with the simplest production setup that produces clear audio, readable vis
 This is my own operating recommendation. The exact equipment standard was not prescribed by the practitioners reviewed.
 
 ---
+
+
 
 ### Step 5 — Edit for Clarity
 
@@ -1528,6 +1780,8 @@ Add when useful:
 
 ---
 
+
+
 ### Step 6 — Complete the Quality Review
 
 Before publishing, one person other than the speaker should review the video.
@@ -1541,6 +1795,8 @@ The reviewer should confirm:
 5. The call to action feels relevant rather than forced.
 
 ---
+
+
 
 ## Outputs
 
@@ -1556,6 +1812,8 @@ This stage should produce:
 - Completed quality review
 
 ---
+
+
 
 ## Original Contribution — The Clarity Gate
 
@@ -1579,6 +1837,8 @@ The **Clarity Gate** is an original framework created during this research. It t
 
 ---
 
+
+
 ## Risks
 
 | Risk | Mitigation |
@@ -1596,6 +1856,8 @@ The **Clarity Gate** is an original framework created during this research. It t
 | Weak claims reduce trust | Verify examples and remove unsupported statements |
 
 ---
+
+
 
 ## Checklist
 
@@ -1619,7 +1881,11 @@ The **Clarity Gate** is an original framework created during this research. It t
 
 ---
 
+
+
 # SOP Stage 6 — Distribution & Repurposing
+
+
 
 ## Objective
 
@@ -1630,6 +1896,8 @@ Publishing a video is not the end of the workflow. It is the beginning of the di
 Several practitioners in this research emphasise that successful B2B SaaS companies spend as much effort distributing content as creating it.
 
 ---
+
+
 
 ## Inputs
 
@@ -1643,7 +1911,11 @@ Several practitioners in this research emphasise that successful B2B SaaS compan
 
 ---
 
+
+
 ## Process
+
+
 
 ### Step 1 — Publish on YouTube
 
@@ -1655,6 +1927,8 @@ Before publishing, confirm:
 - Chapters are added.
 - Captions are reviewed.
 - Call-to-action matches the customer's stage in the buying journey.
+
+
 
 ### Recommendation R-006
 
@@ -1678,6 +1952,8 @@ Research article
 
 ---
 
+
+
 ### Step 2 — Announce Across Channels
 
 Distribute the video using multiple owned channels.
@@ -1694,6 +1970,8 @@ Recommended channels include:
 Every distribution message should be adapted for the platform rather than copied verbatim.
 
 ---
+
+
 
 ### Step 3 — Repurpose the Content
 
@@ -1739,6 +2017,8 @@ LinkedIn posts and podcast discussions.
 
 ---
 
+
+
 ### Step 4 — Support the Sales Team
 
 Identify videos that answer common customer questions.
@@ -1754,6 +2034,8 @@ Educational videos can reduce repetitive explanations and improve customer under
 
 ---
 
+
+
 ### Step 5 — Build a Content Library
 
 Organise published videos into logical playlists such as:
@@ -1767,6 +2049,8 @@ Organise published videos into logical playlists such as:
 A structured library improves discoverability and encourages viewers to continue watching related content.
 
 ---
+
+
 
 ## Original Contribution — Content Multiplication Matrix
 
@@ -1784,6 +2068,8 @@ This matrix encourages teams to maximise the value of every production effort.
 
 ---
 
+
+
 ## Outputs
 
 This stage produces:
@@ -1797,6 +2083,8 @@ This stage produces:
 - Updated content library
 
 ---
+
+
 
 ## Risks
 
@@ -1813,6 +2101,8 @@ This stage produces:
 | Content becomes difficult to find | Maintain organised playlists |
 
 ---
+
+
 
 ## Checklist
 
@@ -1834,7 +2124,11 @@ This stage produces:
 
 ---
 
+
+
 # SOP Stage 7 — Measurement & Analytics
+
+
 
 ## Objective
 
@@ -1843,6 +2137,8 @@ Measure whether YouTube content is creating meaningful business outcomes rather 
 Successful B2B SaaS organisations evaluate YouTube as a long-term education and demand generation channel. Metrics should therefore measure customer engagement, business impact and continuous learning.
 
 ---
+
+
 
 ## Inputs
 
@@ -1856,7 +2152,11 @@ Successful B2B SaaS organisations evaluate YouTube as a long-term education and 
 
 ---
 
+
+
 ## Process
+
+
 
 ### Step 1 — Define Success Metrics
 
@@ -1900,6 +2200,8 @@ Podcast, LinkedIn content and YouTube discussions.
 
 ---
 
+
+
 ### Step 2 — Review Viewer Behaviour
 
 Analyse:
@@ -1914,6 +2216,8 @@ Analyse:
 These metrics help identify where viewers lose interest and which topics generate sustained engagement.
 
 ---
+
+
 
 ### Step 3 — Collect Business Feedback
 
@@ -1935,6 +2239,8 @@ Questions to ask:
 
 ---
 
+
+
 ### Step 4 — Identify Winning Patterns
 
 After reviewing several published videos, identify recurring characteristics of successful content.
@@ -1952,6 +2258,8 @@ Document these findings to improve future planning.
 
 ---
 
+
+
 ### Step 5 — Monthly Review
 
 At the end of each month, review:
@@ -1966,6 +2274,8 @@ At the end of each month, review:
 The purpose is not to judge individual videos but to improve the overall operating system.
 
 ---
+
+
 
 ## Original Contribution — Evidence Scorecard
 
@@ -1991,6 +2301,8 @@ The total score provides a balanced view of content performance rather than rely
 
 ---
 
+
+
 ## Outputs
 
 This stage produces:
@@ -2002,6 +2314,8 @@ This stage produces:
 - Improvement recommendations
 
 ---
+
+
 
 ## Risks
 
@@ -2019,6 +2333,8 @@ This stage produces:
 
 ---
 
+
+
 ## Checklist
 
 - [ ] KPIs reviewed
@@ -2035,7 +2351,11 @@ This stage produces:
 
 ---
 
+
+
 # SOP Stage 8 — Continuous Improvement
+
+
 
 ## Objective
 
@@ -2046,6 +2366,8 @@ The most successful B2B SaaS content teams do not aim to produce perfect videos.
 This stage closes the feedback loop by converting lessons learned into better planning, execution and decision-making.
 
 ---
+
+
 
 ## Inputs
 
@@ -2059,7 +2381,11 @@ This stage closes the feedback loop by converting lessons learned into better pl
 
 ---
 
+
+
 ## Process
+
+
 
 ### Step 1 — Conduct a Monthly Content Review
 
@@ -2076,6 +2402,8 @@ The purpose is to improve the operating system rather than evaluate individuals.
 
 ---
 
+
+
 ### Step 2 — Document Lessons Learned
 
 For every significant video, answer:
@@ -2090,6 +2418,8 @@ Maintain these observations in a shared knowledge repository.
 
 ---
 
+
+
 ### Step 3 — Update the Content Backlog
 
 The backlog should evolve based on evidence.
@@ -2103,6 +2433,8 @@ Actions may include:
 - Introduce new experiments
 
 ---
+
+
 
 ### Step 4 — Run Controlled Experiments
 
@@ -2141,6 +2473,8 @@ Podcast interviews and LinkedIn posts.
 
 ---
 
+
+
 ### Step 5 — Refresh the Operating System
 
 At least every six months, review:
@@ -2156,6 +2490,8 @@ Update documentation where new evidence suggests better approaches.
 The operating system should remain a living document rather than a static manual.
 
 ---
+
+
 
 ## Original Contribution — Learning Loop Framework™
 
@@ -2195,6 +2531,8 @@ Unlike traditional content calendars, the Learning Loop ensures that every publi
 
 ---
 
+
+
 ## Outputs
 
 This stage produces:
@@ -2206,6 +2544,8 @@ This stage produces:
 - Quarterly improvement roadmap
 
 ---
+
+
 
 ## Risks
 
@@ -2223,6 +2563,8 @@ This stage produces:
 
 ---
 
+
+
 ## Checklist
 
 - [ ] Monthly review completed
@@ -2239,11 +2581,15 @@ This stage produces:
 
 ---
 
+
+
 # End of Standard Operating Procedure
 
 The remaining sections of this playbook focus on critical thinking rather than process execution. They evaluate conflicting expert recommendations, justify rejected ideas, present original contributions and acknowledge the limitations of this research.    
 
 ---
+
+
 
 # Where Experts Disagree
 
@@ -2253,7 +2599,11 @@ The disagreements below are differences in emphasis and context. They are not pr
 
 ---
 
+
+
 ## Disagreement 1 — Founder-led content or a broader expert system?
+
+
 
 ### Position A — The founder should be the primary content engine
 
@@ -2293,7 +2643,11 @@ This preserves the trust advantage of a recognisable founder while reducing depe
 
 ---
 
+
+
 ## Disagreement 2 — Publish frequently or build foundations first?
+
+
 
 ### Position A — Frequent publishing creates momentum
 
@@ -2329,7 +2683,11 @@ The exact cadence is an **original operating recommendation** and should be vali
 
 ---
 
+
+
 ## Disagreement 3 — Optimise YouTube for pipeline or for broader trust?
+
+
 
 ### Position A — Treat YouTube as a revenue channel
 
@@ -2373,7 +2731,11 @@ This recognises that B2B content can influence discovery, trust and sales conver
 
 ---
 
+
+
 ## Disagreement 4 — Create product-focused content or market education?
+
+
 
 ### Position A — Focus tightly on buyer problems and revenue intent
 
@@ -2406,6 +2768,8 @@ Each video should still follow the **One Question Rule** and target one clearly 
 
 ---
 
+
+
 ## What These Disagreements Taught Me
 
 The research did not reveal one universal B2B SaaS YouTube strategy.
@@ -2424,6 +2788,8 @@ The strongest playbook is therefore not the one with the most rigid rules. It is
 
 ---
 
+
+
 # What I Rejected and Why
 
 One objective of this research was not simply to collect recommendations but to evaluate them critically.
@@ -2432,7 +2798,11 @@ Not every recommendation was included in the final operating system. Some ideas 
 
 ---
 
+
+
 ## Rejected Idea 1 — Publish Every Day
+
+
 
 ### Recommendation
 
@@ -2452,7 +2822,11 @@ This recommendation prioritises long-term consistency over short-term volume.
 
 ---
 
+
+
 ## Rejected Idea 2 — Measure Success Mainly Through Views
+
+
 
 ### Recommendation
 
@@ -2472,7 +2846,11 @@ Views remain useful operational indicators but should not become primary busines
 
 ---
 
+
+
 ## Rejected Idea 3 — Copy Competitors' Content Strategy
+
+
 
 ### Recommendation
 
@@ -2490,6 +2868,8 @@ Competitor research should inform planning, but content decisions should primari
 
 ---
 
+
+
 ## Reflection
 
 Rejecting recommendations was one of the most valuable parts of this research.
@@ -2499,6 +2879,8 @@ It required comparing evidence across multiple experts rather than accepting the
 The final playbook therefore reflects informed judgement instead of simply combining every recommendation into one document.  
 
 ---
+
+
 
 # My Original Ideas
 
@@ -2510,7 +2892,11 @@ These frameworks are original contributions created during this research. They a
 
 ---
 
+
+
 # Framework 1 — Evidence Pyramid™
+
+
 
 ## Problem
 
@@ -2548,6 +2934,8 @@ Ideas supported by customer evidence should receive higher priority than ideas b
 
 ---
 
+
+
 # Framework 2 — One Question Rule™
 
 Every educational video should answer **one important customer question**.
@@ -2561,6 +2949,8 @@ Before production begins, the content owner should complete this sentence:
 If that sentence cannot be completed clearly, the topic should be refined before production.
 
 ---
+
+
 
 # Framework 3 — Clarity Gate™
 
@@ -2581,6 +2971,8 @@ Before a video is approved for publishing, it should pass four simple questions.
 If any answer is **No**, the video returns for revision.
 
 ---
+
+
 
 # Framework 4 — Content Multiplication Matrix™
 
@@ -2608,6 +3000,8 @@ This framework encourages teams to maximise the return on every production effor
 
 ---
 
+
+
 # Framework 5 — Evidence Scorecard™
 
 Instead of measuring videos only by views, evaluate each video across five dimensions.
@@ -2629,6 +3023,8 @@ Instead of measuring videos only by views, evaluate each video across five dimen
 Each dimension can be scored from **1 to 5** to create a balanced performance assessment.
 
 ---
+
+
 
 # Framework 6 — Learning Loop™
 
@@ -2672,6 +3068,8 @@ Each completed cycle should improve future planning, messaging and execution.
 
 ---
 
+
+
 # Reflection
 
 None of these frameworks appeared in exactly the same form within the research sources.
@@ -2681,6 +3079,8 @@ Instead, they were created by synthesising recurring themes across multiple prac
 Their effectiveness has not yet been validated through implementation. They should therefore be treated as practical hypotheses rather than proven industry standards.  
 
 ---
+
+
 
 # Weaknesses of This Playbook
 
@@ -2694,6 +3094,8 @@ I did not conduct interviews with the practitioners or validate these recommenda
 
 ---
 
+
+
 ## 2. Frameworks Require Validation
 
 The original frameworks proposed in this document—including the Evidence Pyramid™, Learning Loop™, Clarity Gate™ and Evidence Scorecard™—have not yet been tested in real organisational environments.
@@ -2701,6 +3103,8 @@ The original frameworks proposed in this document—including the Evidence Pyram
 They should be considered practical hypotheses rather than proven industry standards.
 
 ---
+
+
 
 ## 3. Company Context Matters
 
@@ -2716,6 +3120,8 @@ Implementation should therefore consider:
 
 ---
 
+
+
 ## 4. The B2B Landscape Changes Rapidly
 
 AI search, buyer behaviour and content distribution continue to evolve.
@@ -2723,6 +3129,8 @@ AI search, buyer behaviour and content distribution continue to evolve.
 As platforms and customer behaviour change, parts of this playbook will require periodic review and revision.
 
 ---
+
+
 
 ## 5. Evidence Quality Varies
 
@@ -2732,6 +3140,8 @@ Where possible, this playbook prioritised recommendations supported by multiple 
 
 ---
 
+
+
 ## Reflection
 
 One of the most important lessons from this research was that no playbook should be treated as permanent.
@@ -2739,6 +3149,8 @@ One of the most important lessons from this research was that no playbook should
 Good operating systems evolve through experimentation, measurement and continuous learning.    
 
 ---
+
+
 
 # Who I Would Not Recommend Following Without Context
 
@@ -2754,7 +3166,11 @@ The following reflections explain where I would be cautious about applying recom
 
 ---
 
+
+
 ## Adam Robinson
+
+
 
 ### Strengths
 
@@ -2779,7 +3195,11 @@ I would be more selective when applying it within large organisations where mult
 
 ---
 
+
+
 ## Chris Walker
+
+
 
 ### Strengths
 
@@ -2804,7 +3224,11 @@ Chris Walker's recommendations become increasingly valuable as organisations mat
 
 ---
 
+
+
 ## April Dunford
+
+
 
 ### Strengths
 
@@ -2822,6 +3246,8 @@ Use her frameworks during strategic positioning work rather than before every in
 
 ---
 
+
+
 ## Final Reflection
 
 None of the practitioners researched should be followed uncritically.
@@ -2837,6 +3263,8 @@ This playbook therefore recommends adapting expert advice rather than copying it
 
 ---
 
+
+
 # # References
 
 This playbook was developed from publicly available YouTube videos, LinkedIn posts, podcasts, articles and practitioner websites.
@@ -2845,16 +3273,24 @@ Where a recommendation appears in the playbook, the original source is cited alo
 
 ---
 
+
+
 ## Adam Robinson
+
+
 
 ### Website
 
 - [https://www.retention.com](https://www.retention.com)
 
+
+
 ### LinkedIn
 
 - [https://www.linkedin.com/in/adamcrobinson/](https://www.linkedin.com/in/adamcrobinson/)
 - [https://www.linkedin.com/posts/retentionadam_stop-overcomplicating-linkedin-if-i-didnt-activity-7458931857800380417-iTd7](https://www.linkedin.com/posts/retentionadam_stop-overcomplicating-linkedin-if-i-didnt-activity-7458931857800380417-iTd7)
+
+
 
 ### YouTube
 
@@ -2864,20 +3300,30 @@ Where a recommendation appears in the playbook, the original source is cited alo
 
 ---
 
+
+
 ## Amanda Natividad
+
+
 
 ### Website
 
 - [https://sparktoro.com](https://sparktoro.com)
+
+
 
 ### LinkedIn
 
 - [https://www.linkedin.com/in/amandanat/](https://www.linkedin.com/in/amandanat/)
 - [https://www.linkedin.com/posts/amandanat_how-would-you-start-a-marketing-strategy-activity-7472780094164467712-l9dM](https://www.linkedin.com/posts/amandanat_how-would-you-start-a-marketing-strategy-activity-7472780094164467712-l9dM)
 
+
+
 ### YouTube
 
 - [https://www.youtube.com/watch?v=gK-f80dTjxM](https://www.youtube.com/watch?v=gK-f80dTjxM)
+
+
 
 ### Podcast
 
@@ -2886,20 +3332,30 @@ Where a recommendation appears in the playbook, the original source is cited alo
 
 ---
 
+
+
 ## April Dunford
+
+
 
 ### Website
 
 - [https://www.aprildunford.com](https://www.aprildunford.com)
+
+
 
 ### LinkedIn
 
 - [https://www.linkedin.com/in/aprildunford/](https://www.linkedin.com/in/aprildunford/)
 - [https://www.linkedin.com/posts/aprildunford_when-we-have-big-changes-in-a-market-like-activity-7470826617833967616-mXuF](https://www.linkedin.com/posts/aprildunford_when-we-have-big-changes-in-a-market-like-activity-7470826617833967616-mXuF)
 
+
+
 ### YouTube
 
 - [https://www.youtube.com/watch?v=L8YFy06-eRM](https://www.youtube.com/watch?v=L8YFy06-eRM)
+
+
 
 ### Podcast
 
@@ -2907,21 +3363,31 @@ Where a recommendation appears in the playbook, the original source is cited alo
 
 ---
 
+
+
 ## Chris Walker
+
+
 
 ### Website
 
 - [https://www.encoded.ai/](https://www.encoded.ai/)
+
+
 
 ### LinkedIn
 
 - [https://www.linkedin.com/in/chriswalker171/](https://www.linkedin.com/in/chriswalker171/)
 - [https://www.linkedin.com/posts/chriswalker171_the-top-10-signs-you-work-in-a-low-frequency-activity-7463584544735014912-74JQ](https://www.linkedin.com/posts/chriswalker171_the-top-10-signs-you-work-in-a-low-frequency-activity-7463584544735014912-74JQ)
 
+
+
 ### YouTube
 
 - [https://www.youtube.com/@ChrisWalker171](https://www.youtube.com/@ChrisWalker171)
 - [https://www.youtube.com/watch?v=ABspL0p6jmY](https://www.youtube.com/watch?v=ABspL0p6jmY)
+
+
 
 ### Podcast
 
@@ -2929,21 +3395,31 @@ Where a recommendation appears in the playbook, the original source is cited alo
 
 ---
 
+
+
 ## Dave Gerhardt
+
+
 
 ### Website
 
 - [https://www.davegerhardt.com](https://www.davegerhardt.com)
+
+
 
 ### LinkedIn
 
 - [https://www.linkedin.com/in/davegerhardt/](https://www.linkedin.com/in/davegerhardt/)
 - [https://www.linkedin.com/posts/davegerhardt_we-polled-540-b2b-marketers-on-how-they-feel-activity-7470420490621464576-MWC_](https://www.linkedin.com/posts/davegerhardt_we-polled-540-b2b-marketers-on-how-they-feel-activity-7470420490621464576-MWC_)
 
+
+
 ### YouTube
 
 - [https://www.youtube.com/@heydavegerhardt](https://www.youtube.com/@heydavegerhardt)
 - [https://www.youtube.com/watch?v=-B1xZs9rdYo](https://www.youtube.com/watch?v=-B1xZs9rdYo)
+
+
 
 ### Podcast
 
@@ -2951,21 +3427,31 @@ Where a recommendation appears in the playbook, the original source is cited alo
 
 ---
 
+
+
 ## Kevin Indig
+
+
 
 ### Website
 
 - [https://www.kevin-indig.com](https://www.kevin-indig.com)
 - [https://www.growth-memo.com](https://www.growth-memo.com)
 
+
+
 ### LinkedIn
 
 - [https://www.linkedin.com/in/kevinindig/](https://www.linkedin.com/in/kevinindig/)
 - [https://www.linkedin.com/posts/kevinindig_ad-hubspotmediapartner-activity-7465031776005144576-wa2z](https://www.linkedin.com/posts/kevinindig_ad-hubspotmediapartner-activity-7465031776005144576-wa2z)
 
+
+
 ### YouTube
 
 - [https://www.youtube.com/watch?v=jQXvbeYF5go](https://www.youtube.com/watch?v=jQXvbeYF5go)
+
+
 
 ### Podcast
 
@@ -2973,17 +3459,25 @@ Where a recommendation appears in the playbook, the original source is cited alo
 
 ---
 
+
+
 ## Lenny Rachitsky
+
+
 
 ### Website
 
 - [https://www.lennyrachitsky.com](https://www.lennyrachitsky.com)
 - [https://www.lennysnewsletter.com](https://www.lennysnewsletter.com)
 
+
+
 ### LinkedIn
 
 - [https://www.linkedin.com/in/lennyrachitsky/](https://www.linkedin.com/in/lennyrachitsky/)
 - [https://www.linkedin.com/posts/lennyrachitsky_mark-pincus-copying-well-is-moral-arbitrage-activity-7472414847549222912-BRe9](https://www.linkedin.com/posts/lennyrachitsky_mark-pincus-copying-well-is-moral-arbitrage-activity-7472414847549222912-BRe9)
+
+
 
 ### YouTube
 
@@ -2992,21 +3486,31 @@ Where a recommendation appears in the playbook, the original source is cited alo
 
 ---
 
+
+
 ## Ross Simmonds
+
+
 
 ### Website
 
 - [https://foundationinc.co](https://foundationinc.co)
+
+
 
 ### LinkedIn
 
 - [https://www.linkedin.com/in/rosssimmonds/](https://www.linkedin.com/in/rosssimmonds/)
 - [https://www.linkedin.com/posts/rosssimmonds_ad-hubspotmediapartner-activity-7472348484973555712-vepc](https://www.linkedin.com/posts/rosssimmonds_ad-hubspotmediapartner-activity-7472348484973555712-vepc)
 
+
+
 ### YouTube
 
 - [https://www.youtube.com/@RossSimmondsTV](https://www.youtube.com/@RossSimmondsTV)
 - [https://www.youtube.com/watch?v=ofe-byzwvpo](https://www.youtube.com/watch?v=ofe-byzwvpo)
+
+
 
 ### Podcast
 
@@ -3014,21 +3518,31 @@ Where a recommendation appears in the playbook, the original source is cited alo
 
 ---
 
+
+
 ## Samu Kovacs
+
+
 
 ### Website
 
 - [https://ks-media.co](https://ks-media.co)
+
+
 
 ### LinkedIn
 
 - [https://www.linkedin.com/in/samu-kovacs/](https://www.linkedin.com/in/samu-kovacs/)
 - [https://www.linkedin.com/posts/samu-kovacs_how-do-i-know-if-my-ideal-customers-are-activity-7475136870943780864-lO4Y](https://www.linkedin.com/posts/samu-kovacs_how-do-i-know-if-my-ideal-customers-are-activity-7475136870943780864-lO4Y)
 
+
+
 ### YouTube
 
 - [https://www.youtube.com/@SamuKovacs](https://www.youtube.com/@SamuKovacs)
 - [https://www.youtube.com/watch?v=g2YXRjG87pE](https://www.youtube.com/watch?v=g2YXRjG87pE)
+
+
 
 ### Podcast
 
@@ -3037,26 +3551,38 @@ Where a recommendation appears in the playbook, the original source is cited alo
 
 ---
 
+
+
 ## Tom Hunt
+
+
 
 ### Website
 
 - [https://www.tomhunt.io/](https://www.tomhunt.io/)
+
+
 
 ### LinkedIn
 
 - [https://www.linkedin.com/in/tomhuntio/](https://www.linkedin.com/in/tomhuntio/)
 - [https://www.linkedin.com/posts/tomhuntio_building-a-b2b-pod-is-less-about-the-big-activity-7454781086133415936-N15-](https://www.linkedin.com/posts/tomhuntio_building-a-b2b-pod-is-less-about-the-big-activity-7454781086133415936-N15-)
 
+
+
 ### YouTube
 
 - [https://www.youtube.com/watch?v=ErJpTjFtp04](https://www.youtube.com/watch?v=ErJpTjFtp04)
+
+
 
 ### Podcast
 
 - [https://open.spotify.com/episode/4xsTnvaqDxYRZEwaGNpjrb](https://open.spotify.com/episode/4xsTnvaqDxYRZEwaGNpjrb)
 
 ---
+
+
 
 ## Research Scope
 
@@ -3066,6 +3592,8 @@ Where a recommendation appears in the playbook, the original source is cited alo
 - Methodology: Cross-source synthesis with original recommendations clearly distinguished from source-derived insights.
 
 ---
+
+
 
 # Repository Research Files
 
@@ -3080,6 +3608,8 @@ The intermediate notes and source summaries used to develop this playbook are av
 - [Key findings](../Research/Key-Findings)
 
 ---
+
+
 
 # ## Source Quality Note
 
