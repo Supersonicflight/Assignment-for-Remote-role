@@ -590,8 +590,6 @@ This transforms YouTube from a publishing platform into an organisational learni
 
 > **Original Contribution**
 
-
-
 > The concept of treating YouTube as an organisational learning system emerged during this research after comparing recurring patterns across multiple practitioners. Although continuous improvement appears throughout the research, the complete operating model presented here is my own synthesis.
 
 ---
@@ -601,7 +599,7 @@ This transforms YouTube from a publishing platform into an organisational learni
 Before defining individual processes, six operating principles guide every decision within this playbook.
 
 These principles were derived from recurring themes observed across the research rather than from any single practitioner.  
-  
+
 ---
 
 # Standard Operating Procedure (SOP)
@@ -611,17 +609,11 @@ This section converts the research findings into a repeatable operating process 
 Each stage includes:
 
 - Objective
-
 - Inputs
-
 - Process
-
 - Outputs
-
 - Success Criteria
-
 - Supporting Evidence
-
 - Checklist
 
 The objective is to ensure YouTube becomes a repeatable business process rather than an isolated marketing activity.
@@ -641,13 +633,9 @@ A YouTube channel cannot optimise simultaneously for awareness, demand generatio
 ## Inputs
 
 - Company business objectives
-
 - Marketing strategy
-
 - Sales objectives
-
 - Product priorities
-
 - Customer journey
 
 ---
@@ -683,13 +671,9 @@ Define the primary audience.
 Document:
 
 - Industry
-
 - Company size
-
 - Job titles
-
 - Buying stage
-
 - Primary pain points
 
 ---
@@ -701,13 +685,9 @@ Define one primary success metric.
 Examples include:
 
 - Pipeline influenced
-
 - Qualified leads generated
-
 - Product sign-ups
-
 - Customer retention
-
 - Returning viewers
 
 Avoid optimising for vanity metrics such as total views or subscriber count in isolation.
@@ -719,13 +699,9 @@ Avoid optimising for vanity metrics such as total views or subscriber count in i
 The outcome of this stage should be a one-page **Channel Charter** containing:
 
 - Business objective
-
 - Target audience
-
 - Success metric
-
 - Review cadence
-
 - Content owner
 
 ---
@@ -771,3 +747,616 @@ Supported independently by multiple practitioners.
 - [ ] Content owner assigned
 
 - [ ] Review date scheduled
+
+---
+
+# SOP Stage 2 — Customer Research
+
+## Objective
+
+Develop a deep understanding of customer problems before selecting video topics.
+
+The goal is to identify the questions, challenges and decisions that potential buyers already have. Successful B2B SaaS YouTube content answers these questions rather than promoting product features.
+
+---
+
+## Inputs
+
+- Customer interviews
+- Sales call recordings
+- Customer support tickets
+- Product documentation
+- CRM insights
+- Community discussions (Reddit, LinkedIn)
+- Search queries
+- Customer success feedback
+
+---
+
+## Process
+
+### Step 1 – Collect Customer Questions
+
+Gather recurring questions from multiple sources instead of relying on assumptions.
+
+Recommended sources include:
+
+- Sales discovery calls
+- Customer onboarding sessions
+- Product demos
+- Support tickets
+- LinkedIn comments
+- Reddit discussions
+- YouTube comments
+
+---
+
+### Step 2 – Group Questions into Themes
+
+Organise similar questions into broader problem categories.
+
+Example:
+
+| Customer Question | Theme |
+
+|-------------------|-------|
+
+| Which CRM should I choose? | Software Selection |
+
+| How do I migrate data? | Implementation |
+
+| Is this worth the cost? | ROI & Business Case |
+
+These themes become the foundation of future content planning.
+
+---
+
+### Step 3 – Prioritise Problems
+
+Evaluate each topic using three criteria:
+
+| Criteria | Description |
+
+|----------|-------------|
+
+| Frequency | How often does the problem occur? |
+
+| Business Impact | Does solving it support revenue or retention? |
+
+| Expertise | Can the company provide a credible answer? |
+
+Prioritise topics that score highly across all three.
+
+---
+
+### Step 4 – Validate Findings
+
+Before creating content, confirm that the identified problems represent genuine customer needs.
+
+Validation methods include:
+
+- Reviewing recent sales conversations
+- Checking search demand
+- Speaking with Customer Success
+- Gathering feedback from Product Marketing
+
+---
+
+## Outputs
+
+Produce a **Customer Problem Repository** containing:
+
+- Problem statement
+- Target audience
+- Buying stage
+- Priority level
+- Recommended video topics
+
+This repository should be updated continuously as new customer insights emerge.
+
+---
+
+## Supporting Evidence
+
+### Amanda Natividad
+
+Content should begin with customer understanding rather than keyword research alone.
+
+**Source**
+
+Research/experts/[amanda-natividad.md](http://amanda-natividad.md)
+
+---
+
+### Kevin Indig
+
+First-party customer insights provide a stronger foundation than relying exclusively on SEO tools.
+
+**Source**
+
+Research/experts/[kevin-indig.md](http://kevin-indig.md)
+
+---
+
+### Chris Walker
+
+Customer education creates trust and improves demand generation over time.
+
+**Source**
+
+Research/experts/[chris-walker.md](http://chris-walker.md)
+
+---
+
+## Confidence
+
+★★★★★
+
+This recommendation is strongly supported across multiple practitioners.
+
+---
+
+## Checklist
+
+- [ ] Customer interviews reviewed
+
+- [ ] Sales conversations analysed
+
+- [ ] Support tickets reviewed
+
+- [ ] Questions grouped into themes
+
+- [ ] Priority topics identified
+
+- [ ] Customer Problem Repository updated  
+
+---
+
+# SOP Stage 3 — Topic Prioritisation
+
+## Objective
+
+Select video topics that maximise business impact by balancing customer demand, organisational expertise and commercial value.
+
+Rather than choosing topics based on intuition or trending keywords alone, this stage applies a structured prioritisation framework.
+
+---
+
+## Inputs
+
+- Customer Problem Repository
+- Sales feedback
+- Product roadmap
+- Search demand
+- Competitor content analysis
+- Subject matter expert availability
+
+---
+
+## Process
+
+### Step 1 – Create a Topic Backlog
+
+Collect all potential video ideas into a single backlog.
+
+Possible sources include:
+
+- Customer interviews
+- Sales objections
+- Product releases
+- Feature requests
+- Industry trends
+- Frequently asked questions
+- Competitor content gaps
+
+---
+
+### Step 2 – Score Every Topic
+
+Evaluate each topic using the following framework.
+
+| Criteria | Weight | Description |
+
+|----------|--------|-------------|
+
+| Customer Impact | High | Does this solve an important customer problem? |
+
+| Business Value | High | Will this support pipeline, adoption or retention? |
+
+| Expertise | Medium | Can the company provide a credible answer? |
+
+| Longevity | Medium | Will the content remain valuable over time? |
+
+| Distribution Potential | Medium | Can this content be repurposed into multiple formats? |
+
+Topics with consistently high scores should be prioritised.
+
+---
+
+### Step 3 – Balance Content Types
+
+Maintain a healthy mix of:
+
+- Educational content
+- Strategic thought leadership
+- Product education
+- Customer success stories
+- Industry analysis
+
+This prevents over-reliance on any single content format.
+
+---
+
+### Step 4 – Build a Quarterly Roadmap
+
+Convert the highest-priority topics into a publishing roadmap.
+
+Each topic should include:
+
+- Target audience
+- Objective
+- Success metric
+- Content owner
+- Planned publication date
+
+---
+
+## Outputs
+
+Produce a prioritised **Content Roadmap** containing:
+
+- Ranked topics
+- Publication schedule
+- Business objective
+- Owner
+- Expected outcome
+
+---
+
+## Supporting Evidence
+
+### Ross Simmonds
+
+High-performing content should be intentionally distributed and repurposed rather than treated as one-time assets.
+
+**Source**
+
+Research/experts/[ross-simonds.md](http://ross-simonds.md)
+
+---
+
+### Dave Gerhardt
+
+Content should align with long-term business goals rather than chasing short-term trends.
+
+**Source**
+
+Research/experts/[dave-gerhardt.md](http://dave-gerhardt.md)
+
+---
+
+### Amanda Natividad
+
+Customer questions should determine editorial priorities.
+
+**Source**
+
+Research/experts/[amanda-natividad.md](http://amanda-natividad.md)
+
+---
+
+## Original Contribution
+
+### The ICE-V Framework
+
+> **Why I created ICE-V**  
+
+> None of the experts proposed a single prioritisation framework combining customer impact, business value, organisational expertise, longevity and production efficiency.  
+
+> ICE-V is my attempt to synthesise recurring ideas from multiple practitioners into one practical decision-making model.  
+
+To prioritise topics consistently, I developed a simple evaluation model during this research.
+
+ICE-V scores every proposed video across five dimensions:
+
+| Dimension | Question |
+
+|-----------|----------|
+
+| Impact | Does it solve a meaningful customer problem? |
+
+| Credibility | Can our organisation answer it better than competitors? |
+
+| Evergreen | Will it remain useful in 12 months? |
+
+| Value | Does it support measurable business outcomes? |
+
+| Velocity | Can it be produced efficiently with available resources? |
+
+Rather than replacing expert recommendations, ICE-V combines recurring themes from multiple practitioners into a practical decision-making tool.
+
+---
+
+## Confidence
+
+★★★★★
+
+Strongly supported across multiple research sources, with the ICE-V framework representing my own synthesis.
+
+---
+
+## Checklist
+
+- [ ] Topic backlog created
+
+- [ ] Topics scored
+
+- [ ] Quarterly roadmap prepared
+
+- [ ] Business objectives aligned
+
+- [ ] Content owners assigned  
+
+---
+
+# SOP Stage 4 — Video Planning
+
+## Objective
+
+Convert prioritised topics into high-quality video briefs that align with business goals, customer needs and available organisational expertise.
+
+A structured planning process reduces rework, improves consistency and ensures every video has a clear purpose before production begins.
+
+---
+
+## Inputs
+
+- Prioritised Content Roadmap
+- Customer Problem Repository
+- Product knowledge
+- Subject Matter Expert availability
+- Business objectives
+
+---
+
+## Process
+
+### Step 1 – Define the Core Question
+
+Every video should answer one primary customer question.
+
+Examples:
+
+- Which CRM should I choose?
+- How long does implementation take?
+- How should I measure ROI?
+- What mistakes should I avoid?
+
+Avoid trying to answer multiple unrelated questions in a single video.
+
+---
+
+### Step 2 – Define Success
+
+Before scripting, answer:
+
+What should viewers know, believe or do after watching this video?
+
+Examples:
+
+- Understand a concept
+- Compare two approaches
+- Avoid a common mistake
+- Request a demo
+- Download a guide
+
+---
+
+### Step 3 – Create the Video Brief
+
+Each brief should include:
+
+| Section | Description |
+
+|----------|-------------|
+
+| Customer Problem | What problem is being solved? |
+
+| Target Audience | Who is the video for? |
+
+| Business Objective | Why are we creating it? |
+
+| Key Takeaways | Three main learning points |
+
+| CTA | Desired next action |
+
+| Success Metric | How success will be measured |
+
+---
+
+### Step 4 – Validate Before Production
+
+Before recording, confirm:
+
+- Customer problem is clearly defined.
+- Subject matter expert is available.
+- Supporting evidence exists.
+- Success metric is measurable.
+
+Only then move into production.
+
+---
+
+## Outputs
+
+A complete Video Brief ready for scripting and recording.
+
+---
+
+## Supporting Evidence
+
+### Amanda Natividad
+
+Customer understanding should guide messaging.
+
+**Source**
+
+Research/experts/[amanda-natividad.md](http://amanda-natividad.md)
+
+---
+
+### Dave Gerhardt
+
+Every piece of content should have a clear strategic purpose.
+
+**Source**
+
+Research/experts/[dave-gerhardt.md](http://dave-gerhardt.md)
+
+---
+
+### Chris Walker
+
+Content should contribute to measurable business outcomes.
+
+**Source**
+
+Research/experts/[chris-walker.md](http://chris-walker.md)
+
+---
+
+## Original Contribution
+
+### The One Question Rule
+
+Every video should answer **one important customer question**.
+
+If a proposed video attempts to answer multiple unrelated questions, it should be split into separate videos.
+
+This rule was developed during this research to improve clarity and audience retention. It is my own synthesis and is not directly attributed to any single practitioner.
+
+---
+
+## Confidence
+
+★★★★★
+
+---
+
+## Checklist
+
+- [ ] One customer question identified
+
+- [ ] Business objective defined
+
+- [ ] Video Brief completed
+
+- [ ] Success metric selected
+
+- [ ] SME confirmed
+
+---
+
+# Original Framework 1 — The Evidence Pyramid™
+
+## Why I Created This
+
+During the research, I noticed that most practitioners encouraged customer-first content, but none proposed a simple way to evaluate whether an idea was supported by sufficient evidence before investing time in production.
+
+To solve this, I developed the **Evidence Pyramid™**.
+
+This framework is my own synthesis created during this assignment.
+
+---
+
+## The Evidence Pyramid™
+
+```text
+
+                 ▲
+
+            Opinion
+
+                 │
+
+         Personal Experience
+
+                 │
+
+         Customer Story
+
+                 │
+
+   Repeated Customer Problem
+
+                 │
+
+ Verified Customer Evidence
+
+                 ▼
+
+```
+
+---
+
+## How It Works
+
+Every proposed video idea should be evaluated against the pyramid.
+
+### Level 1 — Verified Customer Evidence
+
+Evidence collected through customer interviews, sales conversations, product usage data or support requests.
+
+Highest confidence.
+
+---
+
+### Level 2 — Repeated Customer Problems
+
+Questions repeatedly observed across multiple customers.
+
+High confidence.
+
+---
+
+### Level 3 — Customer Story
+
+Experience shared by an individual customer.
+
+Useful but should be validated before becoming a recurring content topic.
+
+---
+
+### Level 4 — Personal Experience
+
+Experience from founders or subject matter experts.
+
+Valuable but susceptible to personal bias.
+
+---
+
+### Level 5 — Opinion
+
+Ideas supported only by assumptions.
+
+Lowest confidence.
+
+---
+
+## Decision Rule
+
+As a general principle:
+
+- Prioritise ideas originating from Levels 1 and 2.
+- Validate ideas from Levels 3 and 4.
+- Avoid producing videos based solely on Level 5.
+
+---
+
+## Why This Matters
+
+Many companies create content because someone internally believes it is important.
+
+This framework encourages teams to begin with evidence rather than assumptions.
+
+Although inspired by recurring themes across multiple practitioners, the Evidence Pyramid™ is my own original contribution developed during this research.  
