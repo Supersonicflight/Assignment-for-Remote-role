@@ -1,4 +1,172 @@
-# AI Tools Setup Portfolio
+# Evidence-Based B2B SaaS YouTube Operating System Playbook
+
+## Overview
+
+This repository contains an evidence-based operating system for building and scaling a B2B SaaS YouTube content program.
+
+The objective of this project was to research leading B2B SaaS practitioners, synthesize their recommendations into a practical operating system, identify areas of agreement and disagreement, and develop original frameworks where appropriate.
+
+The repository is organised to show both the research process and the final deliverable.
+
+---
+
+## Repository Structure
+
+```
+
+.
+
+├── [README.md](http://README.md)
+
+├── Playbook
+
+│   └── [B2B-SaaS-YouTube-Playbook.md](http://B2B-SaaS-YouTube-Playbook.md)
+
+└── Research
+
+    ├── experts
+
+    ├── linkedin-posts
+
+    ├── youtube-transcripts
+
+    ├── other
+
+    ├── Key-Findings
+
+    └── [sources.md](http://sources.md)
+
+```
+
+---
+
+## Contents
+
+### Playbook
+
+The playbook contains:
+
+- Research methodology
+
+- Operating principles
+
+- Eight-stage operating system
+
+- Supporting evidence for recommendations
+
+- Areas where experts disagree
+
+- Rejected recommendations and rationale
+
+- Original frameworks
+
+- Limitations of the proposed approach
+
+- References
+
+### Research
+
+The research folder contains the supporting material used to develop the playbook, including:
+
+- Expert summaries
+
+- YouTube analysis
+
+- LinkedIn research
+
+- Research notes
+
+- Key findings
+
+- Source bibliography
+
+---
+
+## Research Approach
+
+The playbook was developed using the following approach:
+
+1. Review publicly available content from experienced B2B SaaS practitioners.
+
+2. Compare recommendations across multiple independent sources.
+
+3. Identify recurring patterns and conflicting viewpoints.
+
+4. Develop practical recommendations supported by evidence.
+
+5. Create original frameworks where gaps were identified.
+
+---
+
+## Experts Included
+
+- Adam Robinson
+
+- Amanda Natividad
+
+- April Dunford
+
+- Chris Walker
+
+- Dave Gerhardt
+
+- Kevin Indig
+
+- Lenny Rachitsky
+
+- Ross Simmonds
+
+- Samu Kovacs
+
+- Tom Hunt
+
+---
+
+## Original Contributions
+
+The following frameworks were developed during this research:
+
+- Evidence Pyramid™
+
+- ICE-V Framework™
+
+- One Question Rule™
+
+- Clarity Gate™
+
+- Content Multiplication Matrix™
+
+- Evidence Scorecard™
+
+- Learning Loop™
+
+These frameworks are original syntheses created from recurring themes across multiple practitioners and are clearly identified as original contributions within the playbook.
+
+---
+
+## How to Navigate
+
+For the best review experience:
+
+1. Start with `Playbook/B2B-SaaS-YouTube-Playbook.md`
+
+2. Review the supporting research in the `Research` folder.
+
+3. Refer to `Research/sources.md` for the complete bibliography.
+
+---
+
+## Acknowledgement
+
+This project builds upon publicly available educational content from experienced B2B SaaS practitioners. Recommendations are supported by original sources where applicable, while original frameworks are clearly distinguished from sourced material.  
+
+
+---
+
+(INITIAL PART 1 OF ASSIGNMENT)  
+  
+AI Tools Setup Portfolio  
+
 
 ## Overview
 
@@ -24,7 +192,11 @@ The objective of this step was to install the required AI development tools, cre
 7. Committed the changes.
 8. Pushed the changes to GitHub.
 
+
+
 ## Issues Faced and How I Solved Them
+
+
 
 ### Issue 1: Understanding GitHub workflow
 
@@ -33,9 +205,12 @@ I was initially new to the GitHub workflow, especially the difference between cr
 **Solution:**
 
 I understood that:
+
 - A repository is the project folder stored on GitHub.
 - A commit saves my changes locally.
 - A push uploads those changes to GitHub.
+
+
 
 ### Issue 2: Finding and installing the correct extensions
 
@@ -56,6 +231,8 @@ Through this step, I learned how to:
 - Write clear documentation using README.md.
 - Commit and push changes to GitHub.
 
+
+
 ## Next Steps
 
 I am ready to continue with the next stage of the portfolio assignment.
@@ -75,6 +252,8 @@ This research project focuses on identifying high-signal practitioners who activ
 - `/Research/youtube-transcripts/` - YouTube transcript notes organized by video
 - `/Research/other/` - Additional research notes and materials
 
+
+
 ## Current Progress
 
 - Selected research topic
@@ -82,3 +261,4 @@ This research project focuses on identifying high-signal practitioners who activ
 - Identified 10 high-signal practitioners
 - Started organizing sources by expert
 - Added initial research notes
+
