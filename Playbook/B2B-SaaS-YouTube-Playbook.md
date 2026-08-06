@@ -2837,200 +2837,233 @@ This playbook therefore recommends adapting expert advice rather than copying it
 
 ---
 
-# References
+# # References
 
 This playbook was developed from publicly available YouTube videos, LinkedIn posts, podcasts, articles and practitioner websites.
 
-Where a recommendation appears in the playbook, the original source should be cited directly near that recommendation. This section provides the consolidated source list.
+Where a recommendation appears in the playbook, the original source is cited alongside that recommendation. This section provides the consolidated bibliography.
 
 ---
 
 ## Adam Robinson
 
-### YouTube
+### Website
 
-- [Bootstrapped SaaS: From $0 to $1M ARR – 3 Times!]([https://www.youtube.com/watch?v=kS9ii5vYbOM](https://www.youtube.com/watch?v=kS9ii5vYbOM))
-- [Additional Adam Robinson interview used in the research]([https://www.youtube.com/watch?v=2zqbvgoQRsk](https://www.youtube.com/watch?v=2zqbvgoQRsk))
-- [Adam Robinson YouTube channel]([https://www.youtube.com/@retentionadam](https://www.youtube.com/@retentionadam))
+- [https://www.retention.com](https://www.retention.com)
 
 ### LinkedIn
 
-- [Stop Overcomplicating LinkedIn]([https://www.linkedin.com/posts/retentionadam_stop-overcomplicating-linkedin-if-i-didnt-activity-7458931857800380417-iTd7](https://www.linkedin.com/posts/retentionadam_stop-overcomplicating-linkedin-if-i-didnt-activity-7458931857800380417-iTd7))
-- [Adam Robinson LinkedIn profile]([https://www.linkedin.com/in/adamcrobinson/](https://www.linkedin.com/in/adamcrobinson/))
+- [https://www.linkedin.com/in/adamcrobinson/](https://www.linkedin.com/in/adamcrobinson/)
+- [https://www.linkedin.com/posts/retentionadam_stop-overcomplicating-linkedin-if-i-didnt-activity-7458931857800380417-iTd7](https://www.linkedin.com/posts/retentionadam_stop-overcomplicating-linkedin-if-i-didnt-activity-7458931857800380417-iTd7)
 
-### Website
+### YouTube
 
-- [Retention.com]([https://www.retention.com](https://www.retention.com))
+- [https://www.youtube.com/@retentionadam](https://www.youtube.com/@retentionadam)
+- [https://www.youtube.com/watch?v=kS9ii5vYbOM](https://www.youtube.com/watch?v=kS9ii5vYbOM)
+- [https://www.youtube.com/watch?v=2zqbvgoQRsk](https://www.youtube.com/watch?v=2zqbvgoQRsk)
 
 ---
 
 ## Amanda Natividad
 
-### YouTube
+### Website
 
-- [Why B2B Is More Emotional Than B2C]([https://www.youtube.com/watch?v=gK-f80dTjxM](https://www.youtube.com/watch?v=gK-f80dTjxM))
+- [https://sparktoro.com](https://sparktoro.com)
 
 ### LinkedIn
 
-- [How Would You Start a Marketing Strategy?]([https://www.linkedin.com/posts/amandanat_how-would-you-start-a-marketing-strategy-activity-7472780094164467712-l9dM](https://www.linkedin.com/posts/amandanat_how-would-you-start-a-marketing-strategy-activity-7472780094164467712-l9dM))
-- [Amanda Natividad LinkedIn profile]([https://www.linkedin.com/in/amandanat/](https://www.linkedin.com/in/amandanat/))
+- [https://www.linkedin.com/in/amandanat/](https://www.linkedin.com/in/amandanat/)
+- [https://www.linkedin.com/posts/amandanat_how-would-you-start-a-marketing-strategy-activity-7472780094164467712-l9dM](https://www.linkedin.com/posts/amandanat_how-would-you-start-a-marketing-strategy-activity-7472780094164467712-l9dM)
 
-### Podcast and Website
+### YouTube
 
-- [Zero-Click Marketing Podcast]([https://amandanat.com/zero-click-marketing-podcast/](https://amandanat.com/zero-click-marketing-podcast/))
-- [Podcast episode used in the research]([https://share.transistor.fm/s/9810456e](https://share.transistor.fm/s/9810456e))
-- [SparkToro]([https://sparktoro.com](https://sparktoro.com))
+- [https://www.youtube.com/watch?v=gK-f80dTjxM](https://www.youtube.com/watch?v=gK-f80dTjxM)
+
+### Podcast
+
+- [https://amandanat.com/zero-click-marketing-podcast/](https://amandanat.com/zero-click-marketing-podcast/)
+- [https://share.transistor.fm/s/9810456e](https://share.transistor.fm/s/9810456e)
 
 ---
 
 ## April Dunford
 
-### YouTube
+### Website
 
-- [Mastering Messaging for B2B Tech with Emma Stratton]([https://www.youtube.com/watch?v=L8YFy06-eRM](https://www.youtube.com/watch?v=L8YFy06-eRM))
+- [https://www.aprildunford.com](https://www.aprildunford.com)
 
 ### LinkedIn
 
-- [When We Have Big Changes in a Market Like AI]([https://www.linkedin.com/posts/aprildunford_when-we-have-big-changes-in-a-market-like-activity-7470826617833967616-mXuF](https://www.linkedin.com/posts/aprildunford_when-we-have-big-changes-in-a-market-like-activity-7470826617833967616-mXuF))
-- [April Dunford LinkedIn profile]([https://www.linkedin.com/in/aprildunford/](https://www.linkedin.com/in/aprildunford/))
+- [https://www.linkedin.com/in/aprildunford/](https://www.linkedin.com/in/aprildunford/)
+- [https://www.linkedin.com/posts/aprildunford_when-we-have-big-changes-in-a-market-like-activity-7470826617833967616-mXuF](https://www.linkedin.com/posts/aprildunford_when-we-have-big-changes-in-a-market-like-activity-7470826617833967616-mXuF)
 
-### Podcast and Website
+### YouTube
 
-- [New Thinking on Market Categories]([https://www.positioning.show/new-thinking-on-market-categories/](https://www.positioning.show/new-thinking-on-market-categories/))
-- [April Dunford website]([https://www.aprildunford.com](https://www.aprildunford.com))
+- [https://www.youtube.com/watch?v=L8YFy06-eRM](https://www.youtube.com/watch?v=L8YFy06-eRM)
+
+### Podcast
+
+- [https://www.positioning.show/new-thinking-on-market-categories/](https://www.positioning.show/new-thinking-on-market-categories/)
 
 ---
 
 ## Chris Walker
 
-### YouTube
+### Website
 
-- [2X Your Revenue With This Marketing Framework]([https://www.youtube.com/watch?v=ABspL0p6jmY](https://www.youtube.com/watch?v=ABspL0p6jmY))
-- [Chris Walker YouTube channel]([https://www.youtube.com/@ChrisWalker171](https://www.youtube.com/@ChrisWalker171))
+- [https://www.encoded.ai/](https://www.encoded.ai/)
 
 ### LinkedIn
 
-- [The Top 10 Signs You Work in a Low-Frequency Marketing Organisation]([https://www.linkedin.com/posts/chriswalker171_the-top-10-signs-you-work-in-a-low-frequency-activity-7463584544735014912-74JQ](https://www.linkedin.com/posts/chriswalker171_the-top-10-signs-you-work-in-a-low-frequency-activity-7463584544735014912-74JQ))
-- [Chris Walker LinkedIn profile]([https://www.linkedin.com/in/chriswalker171/](https://www.linkedin.com/in/chriswalker171/))
+- [https://www.linkedin.com/in/chriswalker171/](https://www.linkedin.com/in/chriswalker171/)
+- [https://www.linkedin.com/posts/chriswalker171_the-top-10-signs-you-work-in-a-low-frequency-activity-7463584544735014912-74JQ](https://www.linkedin.com/posts/chriswalker171_the-top-10-signs-you-work-in-a-low-frequency-activity-7463584544735014912-74JQ)
 
-### Podcast and Website
+### YouTube
 
-- [The Pressure B2B Marketing Leaders Don’t Talk About Enough]([https://podcasts.apple.com/us/podcast/the-pressure-b2b-marketing-leaders-dont-talk-about-enough/id1511588213?i=1000770063050](https://podcasts.apple.com/us/podcast/the-pressure-b2b-marketing-leaders-dont-talk-about-enough/id1511588213?i=1000770063050))
-- [Encoded]([https://www.encoded.ai/](https://www.encoded.ai/))
+- [https://www.youtube.com/@ChrisWalker171](https://www.youtube.com/@ChrisWalker171)
+- [https://www.youtube.com/watch?v=ABspL0p6jmY](https://www.youtube.com/watch?v=ABspL0p6jmY)
+
+### Podcast
+
+- [https://podcasts.apple.com/us/podcast/the-pressure-b2b-marketing-leaders-dont-talk-about-enough/id1511588213?i=1000770063050](https://podcasts.apple.com/us/podcast/the-pressure-b2b-marketing-leaders-dont-talk-about-enough/id1511588213?i=1000770063050)
 
 ---
 
 ## Dave Gerhardt
 
-### YouTube
+### Website
 
-- [The Best B2B Influencer Marketing Strategy]([https://www.youtube.com/watch?v=-B1xZs9rdYo](https://www.youtube.com/watch?v=-B1xZs9rdYo))
-- [Dave Gerhardt YouTube channel]([https://www.youtube.com/@heydavegerhardt](https://www.youtube.com/@heydavegerhardt))
+- [https://www.davegerhardt.com](https://www.davegerhardt.com)
 
 ### LinkedIn
 
-- [We Polled 540 B2B Marketers]([https://www.linkedin.com/posts/davegerhardt_we-polled-540-b2b-marketers-on-how-they-feel-activity-7470420490621464576-MWC_](https://www.linkedin.com/posts/davegerhardt_we-polled-540-b2b-marketers-on-how-they-feel-activity-7470420490621464576-MWC_))
-- [Dave Gerhardt LinkedIn profile]([https://www.linkedin.com/in/davegerhardt/](https://www.linkedin.com/in/davegerhardt/))
+- [https://www.linkedin.com/in/davegerhardt/](https://www.linkedin.com/in/davegerhardt/)
+- [https://www.linkedin.com/posts/davegerhardt_we-polled-540-b2b-marketers-on-how-they-feel-activity-7470420490621464576-MWC_](https://www.linkedin.com/posts/davegerhardt_we-polled-540-b2b-marketers-on-how-they-feel-activity-7470420490621464576-MWC_)
 
-### Podcast and Website
+### YouTube
 
-- [Podcast episode used in the research]([https://open.spotify.com/episode/7cCk0uuPtKnrOe0A6nc30D](https://open.spotify.com/episode/7cCk0uuPtKnrOe0A6nc30D))
-- [Dave Gerhardt website]([https://www.davegerhardt.com](https://www.davegerhardt.com))
+- [https://www.youtube.com/@heydavegerhardt](https://www.youtube.com/@heydavegerhardt)
+- [https://www.youtube.com/watch?v=-B1xZs9rdYo](https://www.youtube.com/watch?v=-B1xZs9rdYo)
+
+### Podcast
+
+- [https://open.spotify.com/episode/7cCk0uuPtKnrOe0A6nc30D](https://open.spotify.com/episode/7cCk0uuPtKnrOe0A6nc30D)
 
 ---
 
 ## Kevin Indig
 
-### YouTube
+### Website
 
-- [Google Will Kill Your Traffic — How You Adapt]([https://www.youtube.com/watch?v=jQXvbeYF5go](https://www.youtube.com/watch?v=jQXvbeYF5go))
+- [https://www.kevin-indig.com](https://www.kevin-indig.com)
+- [https://www.growth-memo.com](https://www.growth-memo.com)
 
 ### LinkedIn
 
-- [Kevin Indig LinkedIn post used in the research]([https://www.linkedin.com/posts/kevinindig_ad-hubspotmediapartner-activity-7465031776005144576-wa2z](https://www.linkedin.com/posts/kevinindig_ad-hubspotmediapartner-activity-7465031776005144576-wa2z))
-- [Kevin Indig LinkedIn profile]([https://www.linkedin.com/in/kevinindig/](https://www.linkedin.com/in/kevinindig/))
+- [https://www.linkedin.com/in/kevinindig/](https://www.linkedin.com/in/kevinindig/)
+- [https://www.linkedin.com/posts/kevinindig_ad-hubspotmediapartner-activity-7465031776005144576-wa2z](https://www.linkedin.com/posts/kevinindig_ad-hubspotmediapartner-activity-7465031776005144576-wa2z)
 
-### Podcast and Website
+### YouTube
 
-- [Growth Memo]([https://www.growth-memo.com](https://www.growth-memo.com))
-- [Kevin Indig website]([https://www.kevin-indig.com](https://www.kevin-indig.com))
-- [Tech Bound Podcast]([https://open.spotify.com/show/1Ze0gqMmuh22rR8rVv0oz8](https://open.spotify.com/show/1Ze0gqMmuh22rR8rVv0oz8))
+- [https://www.youtube.com/watch?v=jQXvbeYF5go](https://www.youtube.com/watch?v=jQXvbeYF5go)
+
+### Podcast
+
+- [https://open.spotify.com/show/1Ze0gqMmuh22rR8rVv0oz8](https://open.spotify.com/show/1Ze0gqMmuh22rR8rVv0oz8)
 
 ---
 
 ## Lenny Rachitsky
 
-### YouTube
+### Website
 
-- [The $1M to $10M Enterprise Sales Playbook]([https://www.youtube.com/watch?v=37fKFWdrMyA](https://www.youtube.com/watch?v=37fKFWdrMyA))
-- [Additional Lenny Rachitsky interview used in the research]([https://www.youtube.com/watch?v=nTr21kgCFF4](https://www.youtube.com/watch?v=nTr21kgCFF4))
+- [https://www.lennyrachitsky.com](https://www.lennyrachitsky.com)
+- [https://www.lennysnewsletter.com](https://www.lennysnewsletter.com)
 
 ### LinkedIn
 
-- [Copying Well Is Moral Arbitrage]([https://www.linkedin.com/posts/lennyrachitsky_mark-pincus-copying-well-is-moral-arbitrage-activity-7472414847549222912-BRe9](https://www.linkedin.com/posts/lennyrachitsky_mark-pincus-copying-well-is-moral-arbitrage-activity-7472414847549222912-BRe9))
-- [Lenny Rachitsky LinkedIn profile]([https://www.linkedin.com/in/lennyrachitsky/](https://www.linkedin.com/in/lennyrachitsky/))
+- [https://www.linkedin.com/in/lennyrachitsky/](https://www.linkedin.com/in/lennyrachitsky/)
+- [https://www.linkedin.com/posts/lennyrachitsky_mark-pincus-copying-well-is-moral-arbitrage-activity-7472414847549222912-BRe9](https://www.linkedin.com/posts/lennyrachitsky_mark-pincus-copying-well-is-moral-arbitrage-activity-7472414847549222912-BRe9)
 
-### Website and Newsletter
+### YouTube
 
-- [Lenny’s Newsletter]([https://www.lennysnewsletter.com](https://www.lennysnewsletter.com))
-- [Lenny Rachitsky website]([https://www.lennyrachitsky.com](https://www.lennyrachitsky.com))
+- [https://www.youtube.com/watch?v=37fKFWdrMyA](https://www.youtube.com/watch?v=37fKFWdrMyA)
+- [https://www.youtube.com/watch?v=nTr21kgCFF4](https://www.youtube.com/watch?v=nTr21kgCFF4)
 
 ---
 
 ## Ross Simmonds
 
-### YouTube
+### Website
 
-- [The $1 Trillion Shift Nobody’s Talking About in Marketing]([https://www.youtube.com/watch?v=ofe-byzwvpo](https://www.youtube.com/watch?v=ofe-byzwvpo))
-- [Ross Simmonds YouTube channel]([https://www.youtube.com/@RossSimmondsTV](https://www.youtube.com/@RossSimmondsTV))
+- [https://foundationinc.co](https://foundationinc.co)
 
 ### LinkedIn
 
-- [Ross Simmonds LinkedIn post used in the research]([https://www.linkedin.com/posts/rosssimmonds_ad-hubspotmediapartner-activity-7472348484973555712-vepc](https://www.linkedin.com/posts/rosssimmonds_ad-hubspotmediapartner-activity-7472348484973555712-vepc))
-- [Ross Simmonds LinkedIn profile]([https://www.linkedin.com/in/rosssimmonds/](https://www.linkedin.com/in/rosssimmonds/))
+- [https://www.linkedin.com/in/rosssimmonds/](https://www.linkedin.com/in/rosssimmonds/)
+- [https://www.linkedin.com/posts/rosssimmonds_ad-hubspotmediapartner-activity-7472348484973555712-vepc](https://www.linkedin.com/posts/rosssimmonds_ad-hubspotmediapartner-activity-7472348484973555712-vepc)
 
-### Podcast and Website
+### YouTube
 
-- [Reddit, AI and the Distribution Playbook]([https://podcasts.apple.com/gb/podcast/rss-55-reddit-ai-distribution-the-b2b-playbook-most/id1653650073?i=1000770239737](https://podcasts.apple.com/gb/podcast/rss-55-reddit-ai-distribution-the-b2b-playbook-most/id1653650073?i=1000770239737))
-- [Foundation Marketing]([https://foundationinc.co](https://foundationinc.co))
+- [https://www.youtube.com/@RossSimmondsTV](https://www.youtube.com/@RossSimmondsTV)
+- [https://www.youtube.com/watch?v=ofe-byzwvpo](https://www.youtube.com/watch?v=ofe-byzwvpo)
+
+### Podcast
+
+- [https://podcasts.apple.com/gb/podcast/rss-55-reddit-ai-distribution-the-b2b-playbook-most/id1653650073?i=1000770239737](https://podcasts.apple.com/gb/podcast/rss-55-reddit-ai-distribution-the-b2b-playbook-most/id1653650073?i=1000770239737)
 
 ---
 
 ## Samu Kovacs
 
-### YouTube
+### Website
 
-- [A $7,000,000/yr B2B YouTube Strategy]([https://www.youtube.com/watch?v=g2YXRjG87pE](https://www.youtube.com/watch?v=g2YXRjG87pE))
-- [Samu Kovacs YouTube channel]([https://www.youtube.com/@SamuKovacs](https://www.youtube.com/@SamuKovacs))
+- [https://ks-media.co](https://ks-media.co)
 
 ### LinkedIn
 
-- [How Do I Know If My Ideal Customers Are Watching My Videos?]([https://www.linkedin.com/posts/samu-kovacs_how-do-i-know-if-my-ideal-customers-are-activity-7475136870943780864-lO4Y](https://www.linkedin.com/posts/samu-kovacs_how-do-i-know-if-my-ideal-customers-are-activity-7475136870943780864-lO4Y))
-- [Samu Kovacs LinkedIn profile]([https://www.linkedin.com/in/samu-kovacs/](https://www.linkedin.com/in/samu-kovacs/))
+- [https://www.linkedin.com/in/samu-kovacs/](https://www.linkedin.com/in/samu-kovacs/)
+- [https://www.linkedin.com/posts/samu-kovacs_how-do-i-know-if-my-ideal-customers-are-activity-7475136870943780864-lO4Y](https://www.linkedin.com/posts/samu-kovacs_how-do-i-know-if-my-ideal-customers-are-activity-7475136870943780864-lO4Y)
 
-### Podcast and Website
+### YouTube
 
-- [Breaking B2B Podcast]([https://www.breakingb2b.com/podcast](https://www.breakingb2b.com/podcast))
-- [Podcast episode used in the research]([https://podcasts.apple.com/us/podcast/489-4-b2b-founders-share-the-best-marketing/id1496516404?i=1000773118127](https://podcasts.apple.com/us/podcast/489-4-b2b-founders-share-the-best-marketing/id1496516404?i=1000773118127))
-- [KS Media]([https://ks-media.co](https://ks-media.co))
+- [https://www.youtube.com/@SamuKovacs](https://www.youtube.com/@SamuKovacs)
+- [https://www.youtube.com/watch?v=g2YXRjG87pE](https://www.youtube.com/watch?v=g2YXRjG87pE)
+
+### Podcast
+
+- [https://www.breakingb2b.com/podcast](https://www.breakingb2b.com/podcast)
+- [https://podcasts.apple.com/us/podcast/489-4-b2b-founders-share-the-best-marketing/id1496516404?i=1000773118127](https://podcasts.apple.com/us/podcast/489-4-b2b-founders-share-the-best-marketing/id1496516404?i=1000773118127)
 
 ---
 
 ## Tom Hunt
 
-### YouTube
+### Website
 
-- [How to Build a B2B Podcast That Drives Pipeline]([https://www.youtube.com/watch?v=ErJpTjFtp04](https://www.youtube.com/watch?v=ErJpTjFtp04))
+- [https://www.tomhunt.io/](https://www.tomhunt.io/)
 
 ### LinkedIn
 
-- [Building a B2B Podcast Is Less About the Big Idea]([https://www.linkedin.com/posts/tomhuntio_building-a-b2b-pod-is-less-about-the-big-activity-7454781086133415936-N15-](https://www.linkedin.com/posts/tomhuntio_building-a-b2b-pod-is-less-about-the-big-activity-7454781086133415936-N15-))
-- [Tom Hunt LinkedIn profile]([https://www.linkedin.com/in/tomhuntio/](https://www.linkedin.com/in/tomhuntio/))
+- [https://www.linkedin.com/in/tomhuntio/](https://www.linkedin.com/in/tomhuntio/)
+- [https://www.linkedin.com/posts/tomhuntio_building-a-b2b-pod-is-less-about-the-big-activity-7454781086133415936-N15-](https://www.linkedin.com/posts/tomhuntio_building-a-b2b-pod-is-less-about-the-big-activity-7454781086133415936-N15-)
 
-### Podcast and Website
+### YouTube
 
-- [Podcast episode used in the research]([https://open.spotify.com/episode/4xsTnvaqDxYRZEwaGNpjrb](https://open.spotify.com/episode/4xsTnvaqDxYRZEwaGNpjrb))
-- [Tom Hunt website]([https://www.tomhunt.io/](https://www.tomhunt.io/))
+- [https://www.youtube.com/watch?v=ErJpTjFtp04](https://www.youtube.com/watch?v=ErJpTjFtp04)
+
+### Podcast
+
+- [https://open.spotify.com/episode/4xsTnvaqDxYRZEwaGNpjrb](https://open.spotify.com/episode/4xsTnvaqDxYRZEwaGNpjrb)
+
+---
+
+## Research Scope
+
+- Experts analysed: 10
+- Research sources reviewed: 30+
+- Source types: YouTube, LinkedIn, Podcasts, Websites, Newsletters
+- Methodology: Cross-source synthesis with original recommendations clearly distinguished from source-derived insights.
 
 ---
 
